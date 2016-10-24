@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first branch modification
+I'm learning how to use this thing
